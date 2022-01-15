@@ -1,4 +1,4 @@
-## Interface: 90005
+## Interface: 90105
 ## Title: Details Target Caller
 ## Notes: Plugin for Details
 ## RequiredDeps: Details
