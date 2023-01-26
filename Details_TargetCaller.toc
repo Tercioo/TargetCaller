@@ -1,7 +1,10 @@
-## Interface: 90105
+## Interface: 100005
 ## Title: Details Target Caller
 ## Notes: Plugin for Details
 ## RequiredDeps: Details
+
+## X-Curse-Project-ID: 95101
+## X-Wago-ID: 0mKOpYGx
 
 locales\enUS.lua
 locales\deDE.lua
