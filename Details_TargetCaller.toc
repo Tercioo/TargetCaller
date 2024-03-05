@@ -1,7 +1,8 @@
-## Interface: 100200
+## Interface: 100205
 ## Title: Details Target Caller
 ## Notes: Plugin for Details
 ## RequiredDeps: Details
+## IconTexture: Interface\AddOns\Details\images\minimap
 
 ## X-Curse-Project-ID: 95101
 ## X-Wago-ID: 0mKOpYGx
