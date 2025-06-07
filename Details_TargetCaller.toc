@@ -1,4 +1,4 @@
-## Interface: 110107
+## Interface: 110105, 110107
 ## Title: Details Target Caller
 ## Notes: Plugin for Details
 ## RequiredDeps: Details
